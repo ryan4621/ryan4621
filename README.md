@@ -33,7 +33,7 @@
 
 ---
 
-## Projects - showcase
+## 🧑‍💻Personal Projects
 
 <table>
   <tr>
@@ -44,11 +44,11 @@
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>DeepSeek AI Chatbot</b><br/>
-      <sub>Built an LLM-powered chatbot that answers domain-specific questions in real time.</sub><br/>
+      <b>Boho UI Replica</b><br/>
+      <sub>Designed and developed a responsive restaurant website with dynamic menus, reservations, and optimized UI for all devices.</sub><br/>
       🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">Repo</a>
       <br/>
-      <sub>Tags: AI, LLMs, Prompt Engineering</sub>
+      <sub>Languages: HTML, CSS, JavaScript, PHP</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/maximus-soares/Projects/blob/main/CICD%20Pipeline/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md">
@@ -57,24 +57,24 @@
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>Cloud CI/CD Pipeline</b><br/>
-      <sub>Automated deployment of a web app using GitHub Actions and AWS ECS.</sub><br/>
+      <b>Farfetch UI Replica</b><br/>
+      <sub>Built a full-featured e-commerce platform with product management, cart flow, secure checkout, and order handling.</sub><br/>
       🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/CICD%20Pipeline/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md">Repo</a>
       <br/>
-      <sub>Tags: DevOps, Docker, GitHub Actions</sub>
+      <sub>Languages: HTML, CSS, Boootstrap, JavaScript, Node.js</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/maximus-soares/Projects/blob/main/Networking/1%20Build%20a%20VPC.md">
-        <img src="https://camo.githubusercontent.com/6b6af843159b1de02c9a7ae1908b05a29b1c2383077f1c3d38a08ac7889c81bd/687474703a2f2f6c6561726e2e6e657874776f726b2e6f72672f68617070795f6d61726f6f6e5f6a6f6c6c795f7265645f63757272616e742f75706c6f6164732f6177732d6e6574776f726b732d7670635f3266616366393237"
-             alt="VPC Networking Project"
+        <img src="https://github.com/ryan4621/ryan4621/blob/main/Screenshot%202025-12-30%20at%2002.42.42.png?raw=true"
+             alt="Real Estate Project"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>Secure AWS VPC</b><br/>
-      <sub>Designed and deployed a custom VPC with public/private subnets and routing.</sub><br/>
+      <b>Realtor.com UI Replica</b><br/>
+      <sub>Developed a scalable real estate listing application with property management, advanced filtering, and dynamic data rendering.</sub><br/>
       🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/Networking/1%20Build%20a%20VPC.md">Repo</a>
       <br/>
-      <sub>Tags: Networking, AWS, Security</sub>
+      <sub>Languages: HTML, CSS, Bootstrap, JavaScript, Node.js</sub>
     </td>
   </tr>
 </table>
