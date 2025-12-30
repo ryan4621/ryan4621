@@ -38,7 +38,7 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="#">
+      <a href="https://github.com/ryan4621/Restaurant-Project">
         <img src="https://github.com/ryan4621/ryan4621/blob/main/Screenshot%202025-12-30%20at%2002.44.05.png?raw=true"
              alt="Restaurant project"
              style="width:100%; height:200px; object-fit:cover;"/>
@@ -47,7 +47,7 @@
       <b>Boho UI Replica</b><br/>
       <sub>Designed and developed a responsive restaurant website with dynamic menus, reservations, and optimized UI for all devices.</sub>        <br/>
       <br/>
-      <a href="#">
+      <a href="https://github.com/ryan4621/Restaurant-Project">
           <img alt="Restaurant project" src="https://custom-icon-badges.demolab.com/badge/-Repo-blue?style=for-the-badge&logoColor=white&logo=repo" />
       </a>
       <br/>
