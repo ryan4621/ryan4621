@@ -16,7 +16,7 @@
     <img alt="github profile" title="Follow me on Github" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
   
-  <a href="https://www.linkedin.com/in/tochukwu-mgbeadichie-911443397" style="text-decoration:none;">
+  <a href="https://www.linkedin.com/in/emmanuelryan/" style="text-decoration:none;">
     <img alt="linkedin profile" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedIn"/>
   </a>
   
