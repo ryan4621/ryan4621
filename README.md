@@ -90,10 +90,4 @@
 
 <br><br/>
 
-## 📊 Stats
-
-![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryan4621&show_icons=true&theme=radical)
-
-<br><br/>
-
 ⭐ If you’re looking for a reliable full-stack developer who delivers quality results, let’s work together.
