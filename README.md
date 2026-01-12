@@ -76,7 +76,7 @@
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>Realtor.com UI Replica</b><br/>
+      <b>Real estate listing web app</b><br/>
       <sub>Developed a scalable real estate listing application with property management, advanced filtering, and dynamic data rendering.</sub><br/>
       <br/>
       <a href="https://github.com/ryan4621/Real-Estate-Project">
